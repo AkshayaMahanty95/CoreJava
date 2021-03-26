@@ -54,7 +54,7 @@ public class EmployeeAge {
 			sortAge(age);
 		}
 		catch(InputMismatchException e) {
-			System.out.println("please Enter Age only..");
+			System.out.println("please Enter Age onlly...");
 		}
 	}
 			
